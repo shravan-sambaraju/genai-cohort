@@ -17,3 +17,4 @@ dependencies:
       - unstructured==0.17.2
       - typing-extensions>=4.6.1
       - pypdf
+      #- numpy<2.0
